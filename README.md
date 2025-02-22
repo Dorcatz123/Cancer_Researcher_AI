@@ -5,6 +5,8 @@
 
 ![cancer_chatbot](https://raw.githubusercontent.com/Dorcatz123/Cancer_Researcher_AI/main/openart-image_lEFwQqVA_1727547070986_raw.jpg)
 
+# Checkout the huggingface space for live bot: https://huggingface.co/spaces/Dorcatz123/Cancer_Researcher_AI
+
 # YouTube tutorial:
 
 ![cancer_chatbot](https://img.youtube.com/vi/c2yG6IH-Ocg/maxresdefault.jpg)(https://www.youtube.com/watch?v=c2yG6IH-Ocg)
