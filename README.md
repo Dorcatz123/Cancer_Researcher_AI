@@ -59,6 +59,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) f
 
 The Cancer Researcher AI was initiated by Akshay PR and Kiran KKT in (2024) with the mentorship of [Data Science Academy](https://datascience.one/), which is a part of the parent company [Curevlogics.pvt.ltd](https://www.curvelogics.com/). the primary goal of this project is to provide an AI-powered assistant to help answer common cancer-related queries based on reliable medical information. The project was born out of a desire to create a user-friendly tool for cancer research.
 
+
+
+
 ### Key Milestones:
 - **[09 2024]**: Initial concept and prototype developed.
 
