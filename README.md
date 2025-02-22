@@ -1,7 +1,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Cancer Researcher AI
+# Cancer Researcher AI 🤖
 
 ![cancer_chatbot](https://raw.githubusercontent.com/Dorcatz123/Cancer_Researcher_AI/main/openart-image_lEFwQqVA_1727547070986_raw.jpg)
 
